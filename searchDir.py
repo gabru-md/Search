@@ -1,3 +1,8 @@
+# Author	:	Manish Devgan
+# Github Name	:	gabru-md
+# Github Link	:	https://github.com/gabru-md
+# Date		:	16 April 2017
+# Initial Commit
 import sys
 import os
 
