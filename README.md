@@ -15,11 +15,11 @@ allows faster execution of the program.
 # Working of the Script
 1. Script opens up the directory list using os.listdir(PATH)
 2. Searches for the File/Folder
-  i. If Folder/File is found! --> Prints out the Directory + FILENAME/FOLDERNAME
-3. Enters the next directory which is not listed under visitedDirectory[]
-  i. If a FILE is encountered, which cannot be TRAVERSED ( :P ) it recognises it and CONTINUES the process.
-4. Continues until all the Folders/Directories in the PATH are Traversed.
-5. Ends and PRINT the length of searchResults[] 
+3. If Folder/File is found! --> Prints out the Directory + FILENAME/FOLDERNAME
+4. Enters the next directory which is not listed under visitedDirectory[]
+5. If a FILE is encountered, which cannot be TRAVERSED ( :P ) it recognises it and CONTINUES the process.
+6. Continues until all the Folders/Directories in the PATH are Traversed.
+7. Ends and PRINT the length of searchResults[] 
 
 # License
   MIT License
